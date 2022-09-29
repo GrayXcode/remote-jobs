@@ -353,7 +353,7 @@ Name | Website | Region
 [Litmus](/company-profiles/litmus.md) | https://litmus.com/ | Worldwide
 [LivePerson](/company-profiles/liveperson.md) | https://www.liveperson.com/company/careers | Worldwide
 [Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | USA
-[Localize](/https://localizejs.com/company) | https://localizejs.com | North America
+[Localize](/https://localizejs.com/company) | https://localizejs.com/company | North America
 [Localistico](/company-profiles/localistico.md) | [https://localistico.com](https://localistico.com/team/#hiring) | Worldwide
 [LogDNA](/company-profiles/logdna.md) | [https://logdna.com](https://logdna.com/culture-and-career/) | Worldwide
 [Lullabot](/company-profiles/lullabot.md) | https://www.lullabot.com/ | Worldwide
